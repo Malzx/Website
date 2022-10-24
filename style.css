@@ -56,7 +56,7 @@ header {
   background: var(--bg-color);
   padding: 13px 10%;
   transition: 0.2s;
-  box-shadow: -3px -3px 7px #ffffff73,
+  box-shadow: -6px -6px 9px #000000,
 				2px 2px 5px rgba(94, 104, 121, 0.288);
 }
 header.shadow {
